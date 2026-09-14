@@ -34,4 +34,16 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/akhilpgeorge/code-practices/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akhilpgeorge/code-practices/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akhilpgeorge/code-practices/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akhilpgeorge/code-practices/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
