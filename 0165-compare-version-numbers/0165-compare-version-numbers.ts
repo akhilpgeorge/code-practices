@@ -5,10 +5,12 @@ function compareVersion(version1: string, version2: string): number {
     let version2Length = version2Array.length;
 
     for(let i=0; i < Math.max(version1Length, version2Length); i++){
-        if(Number(version1Array[i] || 0) < Number(version2Array[i] || 0)){
+        let revision1 = Number(version1Array[i] || 0);
+        let revision2 = Number(version2Array[i] || 0);
+        if(revision1 < revision2){
             return -1;
         }
-        else if(Number(version1Array[i] || 0) > Number(version2Array[i] || 0)) return 1;
+        else if(revision1 > revision2) return 1;
     }
     return 0;
 };
