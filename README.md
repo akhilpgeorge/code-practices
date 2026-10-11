@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/akhilpgeorge/code-practices/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/akhilpgeorge/code-practices/tree/master/0066-plus-one) |
 | [2043-simple-bank-system](https://github.com/akhilpgeorge/code-practices/tree/master/2043-simple-bank-system) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akhilpgeorge/code-practices/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilpgeorge/code-practices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akhilpgeorge/code-practices/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
